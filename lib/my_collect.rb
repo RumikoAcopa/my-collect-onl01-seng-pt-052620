@@ -4,7 +4,7 @@
 #  yield()
   # i = i += 1
 #  end
-def my_collect(students)
+def my_collect(languages)
   i = 0
   name_collection = []
   while i < array.length
