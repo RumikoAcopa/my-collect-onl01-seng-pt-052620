@@ -6,7 +6,7 @@
 #  end
 def my_collect(array)
   i = 0
-  name_collection = [languages]
+  name_collection = []
   while i < array.length
     #name_collection.push yield(array[i])
   name_collection << yield(array[i])
